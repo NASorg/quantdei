@@ -805,7 +805,7 @@ pubmed_control %>%
   ggplot(., aes(x=year, y=count)) +
   geom_line() +
   scale_y_continuous(labels = scales::comma) +
-  labs(title = "Fig 34. Growth of PubMed database since 1950",
+  labs(title = "Fig 35. Growth of PubMed database since 1950",
        x = "year", y = "count") +
   theme_classic() 
 
