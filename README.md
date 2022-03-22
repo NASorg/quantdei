@@ -4,7 +4,7 @@ This project assembles five original datasets that attempt to measure the salien
 
 This GitHub repository is self-contained and will knit a manuscript on which the final version is based. 
 
-The raw files gathered as part of the analysis, and used to create the processed files that are visualized in the manuscript, are available on Zenodo. There are several hundred thousand individual files and the full `.zip` file is over 30 gigabytes. These files may be found here: TKTKTKTKTKTKTK.
+The raw files gathered as part of the analysis, and used to create the processed files that are visualized in the manuscript, are available on Zenodo. There are several hundred thousand individual files and the full `.zip` file is over 30 gigabytes. These files may be found here: https://zenodo.org/record/6360904#.YjlPC5pBxqs
 
 The structure of the project is like this: 
 
