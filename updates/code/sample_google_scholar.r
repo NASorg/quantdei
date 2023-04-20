@@ -1,3 +1,6 @@
+# Much of the filtering used here was first created by Dr. Emilio Bruna at the University of Florida.
+# Mason Goad and Bruce R. Chartwell thank Dr. Bruna for these contributions. 
+
 require(tidyverse)
 require(glue)
 require(here)
